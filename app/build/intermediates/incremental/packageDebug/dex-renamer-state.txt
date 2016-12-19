@@ -1,0 +1,7 @@
+#Mon Dec 19 13:05:50 CET 2016
+base.0=C\:\\Roboter_Controller-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_09ab45fdc13970a25f067c198175bdc4e6c1c8e9
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Roboter_Controller-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_6e710795e07e83f94f837a76c22272c6fd297514\\classes.dex
+base.1=C\:\\Roboter_Controller-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_6e710795e07e83f94f837a76c22272c6fd297514
+file.0=C\:\\Roboter_Controller-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_09ab45fdc13970a25f067c198175bdc4e6c1c8e9\\classes.dex

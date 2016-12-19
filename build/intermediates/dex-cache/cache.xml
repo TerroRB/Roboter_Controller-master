@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Roboter_Controller-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Roboter_Controller-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_d92395905b5b382fb6cd2d7cb644c38e92c43c5e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Roboter_Controller-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Roboter_Controller-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_c41faafc20e72b88f4d684c212801a70fc887940\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Roboter_Controller-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Roboter_Controller-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_2c41dd72ddb9563004e391d95decb408f3c664da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Roboter_Controller-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_5189148ff5c8b118c4fd51683a08e3f40fa024da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Roboter_Controller-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Roboter_Controller-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_ed3e47f1c705454e2462a18414fdf8602d1376f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Roboter_Controller-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Roboter_Controller-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_680676ec60b672d101f0ccec89722cb6cfc32111\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Roboter_Controller-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Roboter_Controller-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_9cb8d7fd01771232a781e4ae4eea8d8d4e083444\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Roboter_Controller-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Roboter_Controller-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_794d716cef452eb9ae69396b6e7db1768d7f4255\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Roboter_Controller-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e320a109fde01d20714e72472b73f401188135de">
+        <dex dex="C:\Roboter_Controller-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_09ab45fdc13970a25f067c198175bdc4e6c1c8e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Roboter_Controller-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Roboter_Controller-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_5b184230e26419ea45e2301bc28189ee0460a8d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Roboter_Controller-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Roboter_Controller-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_6d4cef6bbf716f6f1470f4a506dc7d8494515a29\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Roboter_Controller-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Roboter_Controller-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_bfb2d05c2ffa207ef9764809095edf31c436faa9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Roboter_Controller-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Roboter_Controller-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_dc198899db3ff2b0113c6cce7c8a7edd6a3c024a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Roboter_Controller-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Roboter_Controller-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_ea8cc20fc42c85cb302f4da7c33e1c7b3e0f2f30\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Roboter_Controller-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Roboter_Controller-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_e06b572523eaab2a18829e2d3dccb6adc468805d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Roboter_Controller-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4cce8ecb15664b9ca7896e97b0f2d272a385f822">
+        <dex dex="C:\Roboter_Controller-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_6e710795e07e83f94f837a76c22272c6fd297514\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Roboter_Controller-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Roboter_Controller-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_5d7e653d1d456b131da5c8cc0bdf0132de351083\classes.dex" />
+    </item>
+
+</items>
