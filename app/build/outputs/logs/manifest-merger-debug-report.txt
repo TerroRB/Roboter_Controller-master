@@ -62,12 +62,16 @@ ADDED from C:\Roboter_Controller-master\app\src\main\AndroidManifest.xml:23:9-33
 		ADDED from C:\Roboter_Controller-master\app\src\main\AndroidManifest.xml:24:13-63
 	android:name
 		ADDED from C:\Roboter_Controller-master\app\src\main\AndroidManifest.xml:26:13-32
-intent-filter#android.intent.category.DEFAULT+com.example.expresso.myapplication.run
+intent-filter#android.bluetooth.device.action.ACL_DISCONNECTED+android.intent.category.DEFAULT+com.example.expresso.myapplication.run
 ADDED from C:\Roboter_Controller-master\app\src\main\AndroidManifest.xml:28:13-32:29
 action#com.example.expresso.myapplication.run
 ADDED from C:\Roboter_Controller-master\app\src\main\AndroidManifest.xml:29:17-81
 	android:name
 		ADDED from C:\Roboter_Controller-master\app\src\main\AndroidManifest.xml:29:25-78
+action#android.bluetooth.device.action.ACL_DISCONNECTED
+ADDED from C:\Roboter_Controller-master\app\src\main\AndroidManifest.xml:30:17-91
+	android:name
+		ADDED from C:\Roboter_Controller-master\app\src\main\AndroidManifest.xml:30:25-88
 category#android.intent.category.DEFAULT
 ADDED from C:\Roboter_Controller-master\app\src\main\AndroidManifest.xml:31:17-76
 	android:name

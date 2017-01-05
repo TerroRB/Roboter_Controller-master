@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="armeabi-v7a,armeabi"
+    abi="arm64-v8a,armeabi-v7a,armeabi"
     api-level="23"
     density="xxhdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="65940563054444"
+    timestamp="24783650735578"
     token="-3544548037852404250"
-    verifier="FULL_BUILD_REQUESTED" >
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
@@ -22,16 +22,29 @@
         name="verifier"
         duration="0" />
 
-    <artifact
-        location="C:\Roboter_Controller-master\app\build\outputs\apk\app-debug.apk"
-        type="MAIN" />
-
     <build
-        timestamp="65940563054444"
+        timestamp="22628034897890"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Roboter_Controller-master\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
+    <build
+        timestamp="22788926285828"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="C:\Roboter_Controller-master\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+            type="RESOURCES" />
+    </build>
+    <build
+        timestamp="24747958398064"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="C:\Roboter_Controller-master\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="24783650735578"
+        verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>

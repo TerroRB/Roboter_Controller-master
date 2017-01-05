@@ -34,6 +34,7 @@
             android:theme="@style/Theme.AppCompat.NoActionBar" >
             <intent-filter>
                 <action android:name="com.example.expresso.myapplication.run" />
+                <action android:name="android.bluetooth.device.action.ACL_DISCONNECTED" />
 
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
